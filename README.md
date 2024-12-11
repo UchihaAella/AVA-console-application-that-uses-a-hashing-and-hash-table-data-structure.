@@ -23,3 +23,7 @@ How It Contributes
 
 •	To Me: Enhances my programming and problem-solving skills while reinforcing knowledge of data structures.
 •	To the Community: Provides educators, students, and developers with a straightforward tool for grade management and learning about hash tables in action.
+
+
+![image](https://github.com/user-attachments/assets/764bc52c-a739-4080-b6f7-c2e72accdf50)
+
